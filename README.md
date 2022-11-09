@@ -1,18 +1,5 @@
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Parameter itu ibarat kamu butuh apa saja sih nantinya untuk menjalankan fungsi tersebut. Secara umum ada 2 istilah di pemrograman, input parameter dan output parameter.
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Argumen itu ibarat value atau nilai dari parameter yang akan kamu kirimkan. Bisa berupa String, Integer, Object, Class, dan lain-lain. Secara umum juga ada 2 istilah, pass by reference dan pass by value.
